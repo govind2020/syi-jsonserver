@@ -1,0 +1,640 @@
+{
+  "sapData": [
+    {
+      "id": "182",
+      "sapUniqueID": "2122000777-100",
+      "activityCode": "S000055",
+      "taskName": "FLOORING ( LABOUR) USING VITRIFIED TILES",
+      "function": "CONSTRUCTION",
+      "group": "ISBL-ALUFORM",
+      "building": "SCT-BLD-H",
+      "wbs0": "BUILDING-ALUFORM",
+      "taskList": "FLOORING & TILING",
+      "wbs2": "UNIT INTERNAL",
+      "location": "SL09-B",
+      "planningRelevant": "Y",
+      "status": "New",
+      "project": ""
+    },
+    {
+      "id": "192",
+      "sapUniqueID": "2122000772-800",
+      "activityCode": "S000063",
+      "taskName": "FIXING KITCHEN OTTA INCLUDING ALL",
+      "function": "CONSTRUCTION",
+      "group": "ISBL-ALUFORM",
+      "building": "SCT-BLD-H",
+      "wbs0": "BUILDING-ALUFORM",
+      "taskList": "FLOORING & TILING",
+      "wbs2": "UNIT INTERNAL",
+      "location": "SL07-A",
+      "planningRelevant": "Y",
+      "status": "New + QC Fail",
+      "project": ""
+    },
+    {
+      "id": "233",
+      "sapUniqueID": "2122000782-100",
+      "activityCode": "S000056",
+      "taskName": "FLOORING ( LABOUR) USING VITRIFIED TILES",
+      "function": "CONSTRUCTION",
+      "group": "ISBL-ALUFORM",
+      "building": "SCT-BLD-H",
+      "wbs0": "BUILDING-ALUFORM",
+      "taskList": "FLOORING & TILING",
+      "wbs2": "OUTSIDE UNIT,COMMON AREA",
+      "location": "BLD-COMMON",
+      "planningRelevant": "Y",
+      "status": "QC Fail",
+      "project": ""
+    },
+    {
+      "id": "281",
+      "sapUniqueID": "2122000775-500",
+      "activityCode": "S000059",
+      "taskName": "DADO ( LABOUR) USING CERAMICTILES",
+      "function": "CONSTRUCTION",
+      "group": "ISBL-ALUFORM",
+      "building": "SCT-BLD-H",
+      "wbs0": "BUILDING-ALUFORM",
+      "taskList": "FLOORING & TILING",
+      "wbs2": "UNIT INTERNAL",
+      "location": "SL08-B",
+      "planningRelevant": "Y",
+      "status": "QC Okay",
+      "project": ""
+    },
+    {
+      "id": "282",
+      "sapUniqueID": "2122000777-101",
+      "activityCode": "S000055",
+      "taskName": "FLOORING ( LABOUR) USING VITRIFIED TILES New",
+      "function": "CONSTRUCTION",
+      "group": "ISBL-ALUFORM",
+      "building": "SCT-BLD-H",
+      "wbs0": "BUILDING-ALUFORM",
+      "taskList": "FLOORING & TILING",
+      "wbs2": "UNIT INTERNAL",
+      "location": "SL09-B",
+      "planningRelevant": "Y",
+      "status": "New",
+      "project": ""
+    },
+    {
+      "id": "283",
+      "sapUniqueID": "2122000772-802",
+      "activityCode": "S000063",
+      "taskName": "FIXING KITCHEN OTTA INCLUDING ALL New",
+      "function": "CONSTRUCTION",
+      "group": "ISBL-ALUFORM",
+      "building": "SCT-BLD-H",
+      "wbs0": "BUILDING-ALUFORM",
+      "taskList": "FLOORING & TILING",
+      "wbs2": "UNIT INTERNAL",
+      "location": "SL07-A",
+      "planningRelevant": "Y",
+      "status": "New + QC Fail",
+      "project": ""
+    },
+    {
+      "id": "284",
+      "sapUniqueID": "2122000782-103",
+      "activityCode": "S000056",
+      "taskName": "FLOORING ( LABOUR) USING VITRIFIED TILES New",
+      "function": "CONSTRUCTION",
+      "group": "ISBL-ALUFORM",
+      "building": "SCT-BLD-H",
+      "wbs0": "BUILDING-ALUFORM",
+      "taskList": "FLOORING & TILING",
+      "wbs2": "OUTSIDE UNIT,COMMON AREA",
+      "location": "BLD-COMMON",
+      "planningRelevant": "Y",
+      "status": "QC Fail",
+      "project": ""
+    },
+    {
+      "id": "285",
+      "sapUniqueID": "2122000775-504",
+      "activityCode": "S000059",
+      "taskName": "DADO ( LABOUR) USING CERAMICTILES New",
+      "function": "CONSTRUCTION",
+      "group": "ISBL-ALUFORM",
+      "building": "SCT-BLD-H",
+      "wbs0": "BUILDING-ALUFORM",
+      "taskList": "FLOORING & TILING",
+      "wbs2": "UNIT INTERNAL",
+      "location": "SL08-B",
+      "planningRelevant": "Y",
+      "status": "QC Okay",
+      "project": ""
+    },
+    {
+      "id": "286",
+      "sapUniqueID": "2122000777-105",
+      "activityCode": "S000055",
+      "taskName": "FLOORING ( LABOUR) USING VITRIFIED TILES new one",
+      "function": "CONSTRUCTION",
+      "group": "ISBL-ALUFORM",
+      "building": "SCT-BLD-H",
+      "wbs0": "BUILDING-ALUFORM",
+      "taskList": "FLOORING & TILING",
+      "wbs2": "UNIT INTERNAL",
+      "location": "SL09-B",
+      "planningRelevant": "Y",
+      "status": "New",
+      "project": ""
+    },
+    {
+      "id": "287",
+      "sapUniqueID": "2122000772-806",
+      "activityCode": "S000063",
+      "taskName": "FIXING KITCHEN OTTA INCLUDING ALL new one",
+      "function": "CONSTRUCTION",
+      "group": "ISBL-ALUFORM",
+      "building": "SCT-BLD-H",
+      "wbs0": "BUILDING-ALUFORM",
+      "taskList": "FLOORING & TILING",
+      "wbs2": "UNIT INTERNAL",
+      "location": "SL07-A",
+      "planningRelevant": "Y",
+      "status": "New + QC Fail",
+      "project": ""
+    },
+    {
+      "id": "288",
+      "sapUniqueID": "2122000782-107",
+      "activityCode": "S000056",
+      "taskName": "FLOORING ( LABOUR) USING VITRIFIED TILES new one",
+      "function": "CONSTRUCTION",
+      "group": "ISBL-ALUFORM",
+      "building": "SCT-BLD-H",
+      "wbs0": "BUILDING-ALUFORM",
+      "taskList": "FLOORING & TILING",
+      "wbs2": "OUTSIDE UNIT,COMMON AREA",
+      "location": "BLD-COMMON",
+      "planningRelevant": "Y",
+      "status": "QC Fail",
+      "project": ""
+    },
+    {
+      "id": "289",
+      "sapUniqueID": "2122000775-508",
+      "activityCode": "S000059",
+      "taskName": "DADO ( LABOUR) USING CERAMICTILES new one",
+      "function": "CONSTRUCTION",
+      "group": "ISBL-ALUFORM",
+      "building": "SCT-BLD-H",
+      "wbs0": "BUILDING-ALUFORM",
+      "taskList": "FLOORING & TILING",
+      "wbs2": "UNIT INTERNAL",
+      "location": "SL08-B",
+      "planningRelevant": "Y",
+      "status": "QC Okay",
+      "project": ""
+    },
+    {
+      "id": "290",
+      "sapUniqueID": "21220007771-100",
+      "activityCode": "S000055",
+      "taskName": "FLOORING ( LABOUR) USING VITRIFIED TILES",
+      "function": "CONSTRUCTION",
+      "group": "ISBL-ALUFORM",
+      "building": "SCT-BLD-A",
+      "wbs0": "BUILDING-ALUFORM",
+      "taskList": "FLOORING & TILING",
+      "wbs2": "UNIT INTERNAL",
+      "location": "SL09-1",
+      "planningRelevant": "Y",
+      "status": "New",
+      "project": ""
+    },
+    {
+      "id": "291",
+      "sapUniqueID": "21220007721-800",
+      "activityCode": "S000063",
+      "taskName": "FIXING KITCHEN OTTA INCLUDING ALL",
+      "function": "CONSTRUCTION",
+      "group": "ISBL-ALUFORM",
+      "building": "SCT-BLD-A",
+      "wbs0": "BUILDING-ALUFORM",
+      "taskList": "FLOORING & TILING",
+      "wbs2": "UNIT INTERNAL",
+      "location": "SL07-1",
+      "planningRelevant": "Y",
+      "status": "New + QC Fail",
+      "project": ""
+    },
+    {
+      "id": "292",
+      "sapUniqueID": "21220007821-100",
+      "activityCode": "S000056",
+      "taskName": "FLOORING ( LABOUR) USING VITRIFIED TILES",
+      "function": "CONSTRUCTION",
+      "group": "ISBL-ALUFORM",
+      "building": "SCT-BLD-A",
+      "wbs0": "BUILDING-ALUFORM",
+      "taskList": "FLOORING & TILING",
+      "wbs2": "OUTSIDE UNIT,COMMON AREA",
+      "location": "BLD-COMMON",
+      "planningRelevant": "Y",
+      "status": "QC Fail",
+      "project": ""
+    },
+    {
+      "id": "293",
+      "sapUniqueID": "21220007751-500",
+      "activityCode": "S000059",
+      "taskName": "DADO ( LABOUR) USING CERAMICTILES",
+      "function": "CONSTRUCTION",
+      "group": "ISBL-ALUFORM",
+      "building": "SCT-BLD-A",
+      "wbs0": "BUILDING-ALUFORM",
+      "taskList": "FLOORING & TILING",
+      "wbs2": "UNIT INTERNAL",
+      "location": "SL08-A",
+      "planningRelevant": "Y",
+      "status": "QC Okay",
+      "project": ""
+    },
+    {
+      "id": "294",
+      "sapUniqueID": "21220007771-101",
+      "activityCode": "S000055",
+      "taskName": "FLOORING ( LABOUR) USING VITRIFIED TILES New",
+      "function": "CONSTRUCTION",
+      "group": "ISBL-ALUFORM",
+      "building": "SCT-BLD-A",
+      "wbs0": "BUILDING-ALUFORM",
+      "taskList": "FLOORING & TILING",
+      "wbs2": "UNIT INTERNAL",
+      "location": "SL09-B",
+      "planningRelevant": "Y",
+      "status": "New",
+      "project": ""
+    },
+    {
+      "id": "295",
+      "sapUniqueID": "21220007721-802",
+      "activityCode": "S000063",
+      "taskName": "FIXING KITCHEN OTTA INCLUDING ALL New",
+      "function": "CONSTRUCTION",
+      "group": "ISBL-ALUFORM",
+      "building": "SCT-BLD-A",
+      "wbs0": "BUILDING-ALUFORM",
+      "taskList": "FLOORING & TILING",
+      "wbs2": "UNIT INTERNAL",
+      "location": "SL07-A",
+      "planningRelevant": "Y",
+      "status": "New + QC Fail",
+      "project": ""
+    },
+    {
+      "id": "296",
+      "sapUniqueID": "21220007821-103",
+      "activityCode": "S000056",
+      "taskName": "FLOORING ( LABOUR) USING VITRIFIED TILES New",
+      "function": "CONSTRUCTION",
+      "group": "ISBL-ALUFORM",
+      "building": "SCT-BLD-A",
+      "wbs0": "BUILDING-ALUFORM",
+      "taskList": "FLOORING & TILING",
+      "wbs2": "OUTSIDE UNIT,COMMON AREA",
+      "location": "BLD-COMMON",
+      "planningRelevant": "Y",
+      "status": "QC Fail",
+      "project": ""
+    },
+    {
+      "id": "297",
+      "sapUniqueID": "21220007751-504",
+      "activityCode": "S000059",
+      "taskName": "DADO ( LABOUR) USING CERAMICTILES New",
+      "function": "CONSTRUCTION",
+      "group": "ISBL-ALUFORM",
+      "building": "SCT-BLD-A",
+      "wbs0": "BUILDING-ALUFORM",
+      "taskList": "FLOORING & TILING",
+      "wbs2": "UNIT INTERNAL",
+      "location": "SL08-B",
+      "planningRelevant": "Y",
+      "status": "QC Okay",
+      "project": ""
+    },
+    {
+      "id": "298",
+      "sapUniqueID": "21220007771-105",
+      "activityCode": "S000055",
+      "taskName": "FLOORING ( LABOUR) USING VITRIFIED TILES new one",
+      "function": "CONSTRUCTION",
+      "group": "ISBL-ALUFORM",
+      "building": "SCT-BLD-A",
+      "wbs0": "BUILDING-ALUFORM",
+      "taskList": "FLOORING & TILING",
+      "wbs2": "UNIT INTERNAL",
+      "location": "SL09-B",
+      "planningRelevant": "Y",
+      "status": "New",
+      "project": ""
+    },
+    {
+      "id": "299",
+      "sapUniqueID": "21220007712-806",
+      "activityCode": "S000063",
+      "taskName": "FIXING KITCHEN OTTA INCLUDING ALL new one",
+      "function": "CONSTRUCTION",
+      "group": "ISBL-ALUFORM",
+      "building": "SCT-BLD-A",
+      "wbs0": "BUILDING-ALUFORM",
+      "taskList": "FLOORING & TILING",
+      "wbs2": "UNIT INTERNAL",
+      "location": "SL07-A",
+      "planningRelevant": "Y",
+      "status": "New + QC Fail",
+      "project": ""
+    },
+    {
+      "id": "300",
+      "sapUniqueID": "21220007812-107",
+      "activityCode": "S000056",
+      "taskName": "FLOORING ( LABOUR) USING VITRIFIED TILES new one",
+      "function": "CONSTRUCTION",
+      "group": "ISBL-ALUFORM",
+      "building": "SCT-BLD-A",
+      "wbs0": "BUILDING-ALUFORM",
+      "taskList": "FLOORING & TILING",
+      "wbs2": "OUTSIDE UNIT,COMMON AREA",
+      "location": "BLD-COMMON",
+      "planningRelevant": "Y",
+      "status": "QC Fail",
+      "project": ""
+    },
+    {
+      "id": "301",
+      "sapUniqueID": "21220007175-508",
+      "activityCode": "S000059",
+      "taskName": "DADO ( LABOUR) USING CERAMICTILES new one",
+      "function": "CONSTRUCTION",
+      "group": "ISBL-ALUFORM",
+      "building": "SCT-BLD-A",
+      "wbs0": "BUILDING-ALUFORM",
+      "taskList": "FLOORING & TILING",
+      "wbs2": "UNIT INTERNAL",
+      "location": "SL08-A",
+      "planningRelevant": "Y",
+      "status": "QC Okay",
+      "project": ""
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "user administrator",
+      "email": "useradministrator@gmail.com",
+      "role": "administrator"
+    },
+    {
+      "id": "2",
+      "name": "user supervisor",
+      "email": "usersupervisor@gmail.com",
+      "role": "supervisor"
+    },
+    {
+      "id": "3",
+      "name": "user engineer",
+      "email": "userengineer@gmail.com",
+      "role": "engineer"
+    },
+    {
+      "id": "4",
+      "name": "user seniotengineer",
+      "email": "userseniorengineer@gmail.com",
+      "role": "senior engineer"
+    },
+    {
+      "id": "5",
+      "name": "user labor head",
+      "email": "userlaborhead@gmail.com",
+      "role": "labor head"
+    },
+    {
+      "id": "6",
+      "name": "user electrition",
+      "email": "userelectrition@gmail.com",
+      "role": "electrition"
+    },
+    {
+      "id": "7",
+      "name": "user painter",
+      "email": "userpainter@gmail.com",
+      "role": "painter"
+    },
+    {
+      "id": "6",
+      "name": "user plumber",
+      "email": "userplumber@gmail.com",
+      "role": "plumber"
+    }
+  ],
+  "inspectionCarried": [
+    {
+      "id": "6309",
+      "inspectionID": 1709538996122,
+      "user": "Current user",
+      "taskName": "FLOORING ( LABOUR) USING VITRIFIED TILES",
+      "taskList": "FLOORING & TILING",
+      "building": "SCT-BLD-H",
+      "sapUniqueId": "2122000777-100",
+      "wbs2": "UNIT INTERNAL",
+      "location": "SL09-B",
+      "status": "new",
+      "observation": [
+        {
+          "observationText": "This is test "
+        },
+        {
+          "observationText": "ee"
+        },
+        {
+          "observationText": "thsioe asdg;oasd;uioh "
+        }
+      ],
+      "photograph": [
+        {
+          "photoURLS": [
+            "blob:http://localhost:3000/65cae4fb-ccca-4d03-9234-008468e08639",
+            "blob:http://localhost:3000/c79000ef-d591-4608-93b9-ef3c1bfab177"
+          ]
+        },
+        {
+          "photoURLS": []
+        },
+        {
+          "photoURLS": [
+            "blob:http://localhost:3000/05e5424b-ca9e-4d5d-ad24-1e59fe4701b3",
+            "blob:http://localhost:3000/ce759791-a36a-48ff-95c6-3c6ee0c4800b"
+          ]
+        }
+      ],
+      "severity": "High",
+      "date": "2024-03-04T07:56:36.122Z",
+      "actualStartDate": "2024-03-06",
+      "actualEndDate": "2024-03-23"
+    },
+    {
+      "id": "6acf",
+      "inspectionID": 1709670795379,
+      "user": "Current user",
+      "taskName": "FIXING KITCHEN OTTA INCLUDING ALL",
+      "taskList": "FLOORING & TILING",
+      "building": "SCT-BLD-H",
+      "sapUniqueId": "2122000772-800",
+      "wbs2": "UNIT INTERNAL",
+      "location": "SL07-A",
+      "status": "new",
+      "observation": [
+        {
+          "observationText": "a;ksdjf "
+        },
+        {}
+      ],
+      "photograph": [
+        {
+          "photoURLS": [
+            "blob:http://localhost:3000/77a27eca-82ec-4b1f-908b-f86056aaaf98",
+            "blob:http://localhost:3000/648f320f-357c-4f92-b30e-10a30f8d4641",
+            "blob:http://localhost:3000/41670c44-4020-45e1-bc23-b53a5a39724d",
+            "blob:http://localhost:3000/0bd741c4-4051-4820-8619-398f043a5b8b",
+            "blob:http://localhost:3000/099fc638-36e5-4ee9-bc0a-8d6c33dd8e0e",
+            "blob:http://localhost:3000/c473c0e9-fc71-446e-b00f-64f440e7447e"
+          ]
+        },
+        {
+          "photoURLS": [
+            "https://res.cloudinary.com/dazf69tcg/image/upload/v1709670887/nmom2ew6rwzbptjkwzma.png",
+            "https://res.cloudinary.com/dazf69tcg/image/upload/v1709670887/pw3nrjk31f7dsbhtncp8.png"
+          ]
+        }
+      ],
+      "severity": "High",
+      "date": "2024-03-05T20:33:15.379Z"
+    }
+  ],
+  "AssignSiteVisit": [
+    {
+      "id": "2ab7",
+      "selectedValue": {
+        "selectedBuilding": "SCT-BLD-H",
+        "selectedTaskList": "FLOORING & TILING",
+        "selectedWBS2": "UNIT INTERNAL",
+        "selectedLocation": "SL09-B",
+        "selectedStatus": "New",
+        "selectedUser": "user administrator",
+        "severityValue": "Major"
+      },
+      "selectedImages": [
+        {},
+        {}
+      ],
+      "observation": "Test "
+    },
+    {
+      "id": "90e3",
+      "building": "SCT-BLD-H",
+      "tasklist": "FLOORING & TILING",
+      "WBS2": "UNIT INTERNAL",
+      "location": "SL09-B",
+      "Status": "New",
+      "AssignTo": "user administrator",
+      "observation": [
+        {
+          "observationText": "Test "
+        }
+      ],
+      "photograph": [
+        {
+          "photoURLS": [
+            "blob:http://localhost:3000/6b07e6f7-d23f-4cb7-afbd-cd805646f144",
+            "blob:http://localhost:3000/f4107c48-20af-43e3-817c-802e2193142c"
+          ]
+        }
+      ],
+      "selectedImages": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "de14",
+      "building": "SCT-BLD-H",
+      "tasklist": "FLOORING & TILING",
+      "WBS2": "UNIT INTERNAL",
+      "location": "SL09-B",
+      "status": "New",
+      "assignTo": "user administrator",
+      "assignBy": "currentUser",
+      "observation": [
+        {
+          "observationText": "Tjklbsdgasdj asdgon"
+        }
+      ],
+      "photograph": [
+        {
+          "photoURLS": [
+            "blob:http://localhost:3000/8c99dd72-092c-4b2f-9a54-ff5f0fbc7233"
+          ]
+        }
+      ]
+    }
+  ],
+  "siteVisitIsntruction": [
+    {
+      "id": "acb5",
+      "vistiInsctuctionID": 1709550363771,
+      "user": "Current user",
+      "taskName": "FLOORING ( LABOUR) USING VITRIFIED TILES",
+      "taskList": "FLOORING & TILING",
+      "building": "SCT-BLD-H",
+      "sapUniqueId": "2122000777-100",
+      "wbs2": "UNIT INTERNAL",
+      "location": "SL09-B",
+      "status": "new",
+      "resolutionRemark": [
+        {
+          "observationText": "test"
+        }
+      ],
+      "resolutionPhotograph": [
+        {
+          "photoURLS": [
+            "blob:http://localhost:3000/ffb7123f-9839-4446-873f-7b87c08430c3",
+            "blob:http://localhost:3000/a77cd5f7-9580-4e18-9a05-bc8a2a442183"
+          ]
+        }
+      ],
+      "severity": "High",
+      "resolutionDate": "2024-03-04T11:06:03.771Z"
+    }
+  ],
+  "progressUpdate": [
+    {
+      "id": "",
+      "sapUniqueID": "",
+      "actualStartDate": "",
+      "actualEndDate": ""
+    },
+    {
+      "id": "038a",
+      "inspectionID": 1709552595221,
+      "user": "Current user",
+      "taskName": "FLOORING ( LABOUR) USING VITRIFIED TILES",
+      "taskList": "FLOORING & TILING",
+      "building": "SCT-BLD-H",
+      "sapUniqueId": "2122000777-100",
+      "wbs2": "UNIT INTERNAL",
+      "location": "SL09-B",
+      "actualStartDate": "2024-03-05",
+      "actualEndDate": "2024-03-16",
+      "date": "2024-03-04T11:43:15.221Z"
+    }
+  ]
+}
